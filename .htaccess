@@ -1,0 +1,6 @@
+RewriteEngine On
+RewriteRule ^doctors doctors.php [NC,L]
+RewriteRule ^gallery gallery.php [NC,L]
+RewriteRule ^contact contact.php [NC,L]
+
+
